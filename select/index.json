@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "灼熱スイッチ",
+  "base_artist": "雀が原中学卓球部",
+  "createdAt": "2026-02-28T16:06:11.180795Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "灼熱スイッチ",
+      "artist": "雀が原中学卓球部",
+      "has_synced": true,
+      "path": "select/01_灼熱スイッチ_雀が原中学卓球部.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "灼熱スイッチ",
+      "artist": "雀が原中学卓球部",
+      "has_synced": false,
+      "path": "select/pl_01_灼熱スイッチ_雀が原中学卓球部.txt"
+    }
+  ]
+}
